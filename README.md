@@ -1,27 +1,36 @@
-# React + TypeScript + Vite
+# Rocketseat - Ignite - Desafio Coffee Delivery - React + typescript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto simula uma loja online para entrega de cafés.
+Foram implementadas as seguintes funcionalidades para estudo: 
+* Adicionar cafés ao carrinho
+* Atualizar indicador no carrinho
+* Atualizar totalizadores
+* Preenchimento e carreamento das informações do endereço no checkout
+* Tela de de resumo com informações do pedido
 
-Currently, two official plugins are available:
+O projeto foi implementado em react + typescript e usou recursos como context api, react-router-dom, reducer, local storage, entre outros.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Install
+- npm i
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Run
+- npm run dev
 
-- Configure the top-level `parserOptions` property like this:
+## Required
+- Node.js 18 o higher 
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## Images
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- Homepage
+![alt text](https://raw.githubusercontent.com/felipebogo/desafio-02-coffee-delivery/main/src/assets/fotos/home.png)
+
+- Checkout
+![alt text](https://raw.githubusercontent.com/felipebogo/desafio-02-coffee-delivery/main/src/assets/fotos/checkout.png)
+
+- Success
+![alt text](https://raw.githubusercontent.com/felipebogo/desafio-02-coffee-delivery/main/src/assets/fotos/success.png)
+
+- Demo
+https://github.com/felipebogo/desafio-02-coffee-delivery/assets/2545068/b04dbccc-a240-4086-902b-f06f4e87eca2
+
