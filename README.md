@@ -23,14 +23,13 @@ O projeto foi implementado em react + typescript e usou recursos como context ap
 ## Images
 
 - Homepage
-![alt text](https://raw.githubusercontent.com/felipebogo/desafio-02-coffee-delivery/main/src/assets/fotos/home.png)
+![Homepage screen](https://raw.githubusercontent.com/felipebogo/desafio-02-coffee-delivery/main/src/assets/fotos/home.png)
 
 - Checkout
-![alt text](https://raw.githubusercontent.com/felipebogo/desafio-02-coffee-delivery/main/src/assets/fotos/checkout.png)
+![Checkout screen](https://raw.githubusercontent.com/felipebogo/desafio-02-coffee-delivery/main/src/assets/fotos/checkout.png)
 
 - Success
-![alt text](https://raw.githubusercontent.com/felipebogo/desafio-02-coffee-delivery/main/src/assets/fotos/success.png)
+![Success screen](https://raw.githubusercontent.com/felipebogo/desafio-02-coffee-delivery/main/src/assets/fotos/success.png)
 
-- Demo
-https://github.com/felipebogo/desafio-02-coffee-delivery/assets/2545068/b04dbccc-a240-4086-902b-f06f4e87eca2
-
+- Coffee Delivery Demo Video
+[![Coffe Delivery](https://i.ytimg.com/vi/0rXo9-UNEyg/maxresdefault.jpg)](https://www.youtube.com/watch?v=0rXo9-UNEyg "Coffee Delivery")
