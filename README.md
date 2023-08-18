@@ -18,7 +18,7 @@ O projeto foi implementado em react + typescript e usou recursos como context ap
 - npm run dev
 
 ## Required
-- Node.js 18 o higher 
+- Node.js 18 ou superior
 
 ## Images
 
